@@ -1,6 +1,6 @@
 # Hi there, I'm Kenny 👋
 
-I'm a motivated computer science graduate. I'm passionate about creating scalable and high-performance applications. Currently, I'm seeking opportunities to leverage my technical skills and continue my professional growth.
+I'm a motivated computer science graduate. Currently, I'm seeking opportunities to leverage my technical skills and continue my professional growth.
 
 ## 👨‍🎓 Education
 
